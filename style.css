@@ -53,3 +53,17 @@ p {
   border-radius: 10px;
   border-style: outset;
 }
+h4{
+  color: white;
+  background-color: #062851;
+  border-radius: 10px;
+  border:solid white 4px;
+  text-align: center;
+  max-width: 100px;
+  margin: 0 auto;
+
+}
+.explenation{
+  max-width: 500px;
+ padding: 0 70px;
+}
